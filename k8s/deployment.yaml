@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: springboot-java
-          image: harshitha0117/springboot-java:8
+          image: harshitha0117/springboot-java:9
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8080
